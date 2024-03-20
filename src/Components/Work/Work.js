@@ -57,8 +57,8 @@ const Work = () => {
                                             <a style={{textDecoration:"none",color:"white",fontSize:"1.3rem"}} href={ele.live} target={"_blank"} ><i className="fa-solid fa-globe"></i></a>
                                         </Box>
                                     </Box>
-                                    <Typography sx={{color:"rgb(129,141,171)",marginTop:"10px",fontSize:"1.1rem"}} >{ele.type} Project</Typography>
-                                    <Typography sx={{color:"rgb(129,141,171)",marginTop:"5px",fontSize:"1rem"}} >{ele.description} Project</Typography>
+                                    <Typography sx={{color:"white",marginTop:"10px",fontSize:"1.1rem"}} >{ele.type} Project</Typography>
+                                    <Typography sx={{color:"whiteSmoke",marginTop:"5px",fontSize:"1rem"}} >{ele.description}</Typography>
                                     <Box sx={{display:"flex",justifyContent:"center",width:"fit-content",margin:"2% auto",gap:"5px"}}>
                                         {
                                             ele.tech.map((ele,index)=>{

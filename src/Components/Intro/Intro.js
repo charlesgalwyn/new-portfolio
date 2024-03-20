@@ -50,7 +50,7 @@ const Intro = () => {
             </Zoom>
             <Zoom in={checked}>
                 <Typography className='intro' sx={{ color: "rgb(136,146,176)", width: "65%", marginTop: "2%", fontSize: "1.4rem" }} variant='h5'>
-                    I am a Software Development Engineer at Clearout.io, a company that helps businesses automate their email marketing and customer outreach.
+                     A passionate Software Development Engineer at Clearout.io, a company that helps businesses automate their email marketing and customer outreach.
                     I have a passion for building scalable and reliable software, and I am always looking for new ways to improve the efficiency and effectiveness of our products.
                     Currently, I’m focused on building accessible, human-centered products.
                 </Typography>

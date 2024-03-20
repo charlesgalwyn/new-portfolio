@@ -29,11 +29,11 @@ const About = () => {
             <Zoom  in={checked2}>
 
                 <Typography className='aboutText' sx={{marginTop:"8%",color:"rgb(136,146,176)"}}>
-                    Hello! My name is <span style={{color:"white"}}>Charles Galwyn</span> and I enjoy creating things that live on the internet. I am now working as a Software Developer in Clearout.io
-                    <br/>
-                    <br/>
-                    After my graduation i was finding something to start my carrer in tech field and gratefully i came into know about <span style={{color:"white"}}>Web Development</span> and started my journey from there.
-                    Fast-forward to today, and I’ve worked in many projects with lot of tech stacks.My main focus these days is building accessible, inclusive products.
+                A passionate <span style={{color:"white"}}>MERN stack</span> developer with a knack for building robust and scalable web applications. 
+                With a strong foundation in Java, JavaScript, HTML, CSS, and React, I thrive on turning ideas into 
+                interactive and impactful digital experiences. On my portfolio, you'll find a collection of projects 
+                showcasing my skills in full-stack development, from front-end design and user experience optimization to 
+                back-end logic and database management using MongoDB, Express.js, and Node.js.
                 </Typography>
             </Zoom>
         </Box>
